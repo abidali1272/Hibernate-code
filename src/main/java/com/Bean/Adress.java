@@ -11,7 +11,6 @@ public class Adress {
 	public String getRoadname() {
 		return roadname;
 	}
-// github
 	public void setRoadname(String roadname) {
 		this.roadname = roadname;
 	}
